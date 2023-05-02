@@ -1,1 +1,4 @@
-# I_hate_C
+# 0502C
+* yuhan Univ. C language
+  *학번
+  *이름
